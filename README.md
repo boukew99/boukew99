@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boukew99
 - 👀 I’m interested in Human Technlogy Interaction
 - 🌱 I’m currently learning *something about usability of technologies*
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GUI
 - 📫 How to reach me ...
 
 <!---
