@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @boukew99
-- 👀 I’m interested in Human Technlogy Interaction
-- 🌱 I’m currently learning *something about usability of technologies*
-- 💞️ I’m looking to collaborate on GUI and Godot
-- 📫 How to reach me ... (via github?)
+- 👀 I’m interested in the interaction between people and Technlogy
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate ...
+- 📫 How to reach me ... 
 
 <!---
 boukew99/boukew99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
