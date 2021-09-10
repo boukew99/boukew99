@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @boukew99
-- 👀 I’m interested in the interaction between people and Technlogy
-- 🌱 I’m currently learning Godot Engine
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in interaction between Humans and Technlogy
+- 🌱 I’m currently making video games and creative applications with Godot Engine!
 
 <!---
 boukew99/boukew99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
