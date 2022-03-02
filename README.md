@@ -1,4 +1,4 @@
-Having fun in Godot Engine. Trying raylib.
+Having fun in Godot Engine. Trying C and raylib.
 
 <!---
 boukew99/boukew99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
