@@ -1,6 +1,6 @@
 Having fun in Godot Engine. Trying C and raylib.
 
-I have some MIT addons, demos and projects for Godot Engine for educational purposes, but can also be used as is.
+I have some MIT addons, demos and projects for Godot Engine for learning purposes, but can also be used as is.
 
 Also #SaveSoil
 <!---
