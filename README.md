@@ -2,7 +2,13 @@ Having fun in Godot Engine. Trying C and raylib.
 
 I have some MIT addons, demos and projects for Godot Engine for learning, but they can also be used as is.
 
-<!---
-boukew99/boukew99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![mondriaan maker](https://raw.githubusercontent.com/boukew99/mondriaan_maker/main/icon.png)
+![text chess](https://raw.githubusercontent.com/boukew99/text_chess/main/icon.png)
+![screen capturerer](https://raw.githubusercontent.com/boukew99/screen_capture/main/addons/screen_capture/screen_capture.png)
+![audio station](https://raw.githubusercontent.com/boukew99/audio_station/main/audio_station.png)
+![mic recorder](https://raw.githubusercontent.com/boukew99/mic_recorder/main/addons/mic_recorder/mic_recorder.png)
+![gui calculator](https://raw.githubusercontent.com/boukew99/gui_calculator/main/addons/calculator/icon.png)
+![scratch canvas](https://raw.githubusercontent.com/boukew99/scratch_canvas/main/addons/canvas/icon.png)
+![scratch animator](https://raw.githubusercontent.com/boukew99/scratch_animater/main/icon.png)
+![joypad lab](https://raw.githubusercontent.com/boukew99/joypad_lab/main/icon.png)
+![shader window](https://raw.githubusercontent.com/boukew99/shader_window/main/addons/shader_window/shader_window.png)
