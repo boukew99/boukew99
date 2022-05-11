@@ -1,5 +1,5 @@
 # boukew99
-Having fun in Godot Engine. Trying C and raylib.
+Having fun in Godot Engine. Though only little time for coding.
 
 ## Godot Engine 
 MIT addons, demos and projects for learning, but can also be used as is.
