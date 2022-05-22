@@ -17,4 +17,4 @@ MIT addons, demos and projects for learning, but can also be used as is.
 
 ## Miscellaneous 
 
-[![website](https://raw.githubusercontent.com/boukew99/boukew99.github.io/main/icon.png)](https://github.com/boukew99/boukew99.github.io) 
+[![website](https://raw.githubusercontent.com/boukew99/boukew99.github.io/main/favicon.ico)](https://github.com/boukew99/boukew99.github.io) 
