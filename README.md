@@ -1,6 +1,5 @@
-I like readable code...
 
-## Godot Engine 
+## Godot Engine Assets
 MIT addons, demos and projects for learning, but can also be used as is.
 
 Name | Description 
