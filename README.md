@@ -1,5 +1,4 @@
-# boukew99
-Still learning and growing.  Playing / coding in Godot Engine.
+I like readable code...
 
 ## Godot Engine 
 MIT addons, demos and projects for learning, but can also be used as is.
@@ -29,6 +28,3 @@ Name | Description
 [![scratch animator](https://raw.githubusercontent.com/boukew99/scratch_animater/main/scratch_animator.png)](https://github.com/boukew99/scratch_animater)
 [![joypad lab](https://raw.githubusercontent.com/boukew99/joypad_lab/main/icon.png)](https://github.com/boukew99/joypad_lab)
 [![shader window](https://raw.githubusercontent.com/boukew99/shader_window/main/addons/shader_window/shader_window.png)](https://github.com/boukew99/shader_window)
-## Miscellaneous 
-
-[Website](https://github.com/boukew99/boukew99.github.io) | 🕸️ Website
