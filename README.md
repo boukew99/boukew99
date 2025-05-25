@@ -7,6 +7,7 @@ Projects have a preferences for UI and usability. The code is is usually very co
 
 ## Godot Engine Demos and Addons
 Click one of the icons to visit a project repo. These are real projects hosted on itch.io, with the source code available.
+
 [![gui calculator](https://raw.githubusercontent.com/boukew99/gui_calculator/main/addons/calculator/icon.png)](https://github.com/boukew99/gui_calculator)
 [![scratch animator](https://raw.githubusercontent.com/boukew99/scratch_animater/main/animator/scratch_animator.png)](https://github.com/boukew99/scratch_animater)
 [![scratch canvas](https://raw.githubusercontent.com/boukew99/scratch_canvas/main/canvas/scratch_canvas.png)](https://github.com/boukew99/scratch_canvas)
