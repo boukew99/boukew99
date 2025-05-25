@@ -2,11 +2,11 @@
 Projects have a preferences for UI and usability. The code is is usually very concise and small.
 
 # Web and Linux
-- Live webiste template Chitch using efficient techniques : https://github.com/boukew99/chitch
-- modern nano: https://github.com/boukew99/modern-nano
+- Live website template Chitch using efficient techniques : https://github.com/boukew99/chitch
+- modern nano (terminal editor config): https://github.com/boukew99/modern-nano
 
 ## Godot Engine Demos and Addons
-Click one of the icons to visit a project repo. These are real projects hosted on itch.io, with the source code available.
+Click one of the icons to visit a project repo. These are real projects hosted on itch.io or on Godot Asset Store, with the source code available.
 
 [![gui calculator](https://raw.githubusercontent.com/boukew99/gui_calculator/main/addons/calculator/icon.png)](https://github.com/boukew99/gui_calculator)
 [![scratch animator](https://raw.githubusercontent.com/boukew99/scratch_animater/main/animator/scratch_animator.png)](https://github.com/boukew99/scratch_animater)
