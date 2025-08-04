@@ -1,12 +1,15 @@
-# Projects
-Projects have a preferences for UI and usability. The code is is usually very concise and small.
+# Hoi World
+My projects have a preferences for UI & accessibiliy. The code is typically functional and concise.
 
-# Web and Linux
-- Live website template Chitch using efficient techniques : https://github.com/boukew99/chitch
+## Web and Linux
+- Chitch CMS spearheading sustainability : https://github.com/boukew99/chitch
 - modern nano (terminal editor config): https://github.com/boukew99/modern-nano
 
 ## Godot Engine Demos and Addons
-Click one of the icons to visit a project repo. These are real projects hosted on itch.io or on Godot Asset Store, with the source code available.
+I used to be active in the Godot Engine Community and published severeal games on itch.io.
+
+On Github I host educational projects on using Godot's UI nodes for real use cases.
+Click one of the icons to visit a project repo.
 
 [![gui calculator](https://raw.githubusercontent.com/boukew99/gui_calculator/main/addons/calculator/icon.png)](https://github.com/boukew99/gui_calculator)
 [![scratch animator](https://raw.githubusercontent.com/boukew99/scratch_animater/main/animator/scratch_animator.png)](https://github.com/boukew99/scratch_animater)
