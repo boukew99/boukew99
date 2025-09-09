@@ -1,5 +1,5 @@
 # Hoi World
-My projects have a preferences for UI & accessibiliy. The code is typically functional and concise.
+My projects have a preference for UI & accessibiliy. The code is typically functional and concise.
 
 ## Web and Linux
 - [Chitch Backend](https://github.com/boukew99/chitch), modular and functional web backend, build for sustainability.
