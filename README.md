@@ -3,7 +3,7 @@ My projects have a preference for UI & accessibiliy. The code is typically funct
 
 ## Web and Linux
 - [Chitch Backend](https://github.com/boukew99/chitch), modular and functional web backend, build for sustainability.
-- [Modern Bano](https://github.com/boukew99/modern-nano), terminal editor config.
+- [Modern Nano](https://github.com/boukew99/modern-nano), terminal editor config.
 - [Debian meta package](https://github.com/boukew99/debian-meta-package), small utility to make debian dependencies more declarative, like Nix is.
 
 ## Godot Engine Demos and Addons
