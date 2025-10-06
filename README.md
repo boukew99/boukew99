@@ -4,12 +4,12 @@ My projects have a preference for UI & accessibiliy. The code is typically funct
 ## Web and Linux
 - [Chitch Backend](https://github.com/boukew99/chitch), modular and functional web backend, build for sustainability.
 - [Modern Nano](https://github.com/boukew99/modern-nano), terminal editor config.
-- [Debian meta package](https://github.com/boukew99/debian-meta-package), small utility to make debian dependencies more declarative, like Nix is.
+- [Declarative Debian](https://github.com/boukew99/declarative-debian), small utility to make debian dependencies more declarative, like Nix.
 
 ## Godot Engine Demos and Addons
 I used to be active in the Godot Engine Community and published severeal games on itch.io.
 
-On Github I host educational projects on using Godot's UI nodes for creative applications.
+On Github I host educational projects on using Godot's UI nodes for desktop applications.
 Click one of the icons to visit a project repo.
 
 [![gui calculator](https://raw.githubusercontent.com/boukew99/gui_calculator/main/addons/calculator/icon.png)](https://github.com/boukew99/gui_calculator)
