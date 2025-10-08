@@ -1,5 +1,5 @@
 # Hoi World
-My projects have a preference for UI & accessibiliy. The code is typically functional and concise.
+My interest is in interfaces, may it be Graphical User Interface (GUI), Comamnd Line Interace (CLI), Appilcaition Program Interface (API). My code is typically minimalist, functional and concise.
 
 ## Web and Linux
 - [Chitch Backend](https://github.com/boukew99/chitch), modular and functional web backend, build for sustainability.
