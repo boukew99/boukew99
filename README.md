@@ -1,8 +1,7 @@
 # Hoi World
 My interest is in interfaces, may it be Graphical User Interface (GUI), Comamnd Line Interace (CLI), Appilcaition Program Interface (API). My code is typically minimalist, functional and concise.
 
-## Web and Linux
-- [Chitch Backend](https://github.com/boukew99/chitch), modular and functional web backend, build for sustainability.
+##  Linux
 - [Modern Nano](https://github.com/boukew99/modern-nano), terminal editor config.
 - [Declarative Debian](https://github.com/boukew99/declarative-debian), small utility to make debian dependencies more declarative, like Nix.
 
